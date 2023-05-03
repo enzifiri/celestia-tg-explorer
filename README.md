@@ -17,3 +17,13 @@ The bot also provides information on transaction data. Users can send the hash v
 The bot also directs users to the original explorer website, where they can examine their wallet address and other transactions in detail. This website provides a platform for more detailed examination of blockchain data, allowing users to examine transactions, blocks, and other data in detail.
 
 In conclusion, the Telegram Explorer bot is an important tool for anyone interested in blockchain technology. By facilitating access to blockchain data, the bot can help to increase the use of blockchain technology by a wider audience. The bot appeals to users of all levels with its user-friendly interface and easy-to-use features.
+
+# Disclaimer
+
+This software is developed for the Celestia Blockspacerace-0 Bonus tasks. You can use it for educational purposes to learn the codes, but please keep in mind that copying it may result in being banned from Celestia Blockspacerace-0. For more detailed information, please refer to the Celestia articles.
+
+# Features
+
+``/status`` You can use this command to query the current block number and other details of the Celestia - Blockspacerace0 network. <br>
+``/exlorer`` With this command, you can access the detailed explorer website and perform other operations that are not available in this bot, such as wallet and transaction queries. The bot is still under development, and these features will be integrated into the Telegram bot in the future. <br>
+``(blocknumber)`` You can enter a block number to retrieve detailed information about that block. <br>
