@@ -55,13 +55,4 @@ logging - Built-in Python library <br>
 ## /Start
 ![image](https://user-images.githubusercontent.com/76253089/236000386-30dc664d-6f01-4550-8d02-c638d5a05258.png)
 
-## Block Number
-![image](https://user-images.githubusercontent.com/76253089/236000605-90df7d27-de83-4be2-9085-fc3e0b101697.png)
-
-## /Status
-![image](https://user-images.githubusercontent.com/76253089/236000662-21d21d32-6895-4bb2-888e-bbcead990a56.png)
-
-## /Explorer
-![image](https://user-images.githubusercontent.com/76253089/236000729-7126638d-7d54-4734-94f8-7513da13c521.png)
-
 </div>
