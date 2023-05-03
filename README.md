@@ -27,3 +27,12 @@ This software is developed for the Celestia Blockspacerace-0 Bonus tasks. You ca
 ``/status`` You can use this command to query the current block number and other details of the Celestia - Blockspacerace0 network. <br>
 ``/exlorer`` With this command, you can access the detailed explorer website and perform other operations that are not available in this bot, such as wallet and transaction queries. The bot is still under development, and these features will be integrated into the Telegram bot in the future. <br>
 ``(blocknumber)`` You can enter a block number to retrieve detailed information about that block. <br>
+
+# Requirements
+
+The required packages and their minimum versions for this project to work are as follows:
+
+Python - 3.6 or newer  <br>
+requests - 2.22.0 or newer <br>
+python-telegram-bot - 13.0 or newer <br>
+logging - Built-in Python library <br>
