@@ -24,9 +24,18 @@ This software is developed for the Celestia Blockspacerace-0 Bonus tasks. You ca
 
 # Features
 
-``/status`` You can use this command to query the current block number and other details of the Celestia - Blockspacerace0 network. <br>
-``/exlorer`` With this command, you can access the detailed explorer website and perform other operations that are not available in this bot, such as wallet and transaction queries. The bot is still under development, and these features will be integrated into the Telegram bot in the future. <br>
-``(blocknumber)`` You can enter a block number to retrieve detailed information about that block. <br>
+This application allows you to query information related to the Celestia blockchain network through the Telegram messaging platform. The application includes a set of commands that the Telegram bot offers to its users: <br>
+
+"/start": Used to start the application. With this command, the bot sends you an opening message and explains what queries you can make. <br>
+"/status": Provides general information about the Celestia network. With this command, the bot reports the latest block height, the state of the network, validator addresses, and more. <br>
+"/explorer": Provides a link to examine the transactions and details of a wallet address on the Celestia network. <br>
+"/itntasks": Allows you to access the tasks of the incentivized test network on Celestia. Completing these tasks can help you earn rewards. <br>
+"/docs": Provides a link to documentation and articles for learning more about the Celestia Network. <br>
+"/website": Provides a link to the Celestia Network's website. <br>
+"/termsofservice": Provides a link to the terms and conditions related to the Celestia network. <br>
+"/privacy": Provides a link to the Celestia Network's privacy policy. <br>
+
+Additionally, the application works with the "search_block_or_tx" function to allow you to query a specific block number or transaction ID in the Celestia network. As a result of this query, you receive a detailed response that provides information about the block or transaction. <br>
 
 # Requirements
 
