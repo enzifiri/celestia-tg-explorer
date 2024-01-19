@@ -1,6 +1,7 @@
 <div align=center><h1> Celestia - Telegram Explorer Bot </h1>
 
-![Screenshot_1](https://user-images.githubusercontent.com/76253089/235996332-37d7d3c6-6081-4ef6-9f93-67247cdeb865.png)
+![image](https://github.com/enzifiri/celestia-tg-explorer/assets/76253089/e9ad621f-91be-45c3-a23d-e4e7219fcad6)
+
 
 </div>
 
